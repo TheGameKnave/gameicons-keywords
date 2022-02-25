@@ -7,4 +7,4 @@ Order is alphabetical, but with gaming-related icons at the top.
 
 Keep it family-friendly, please.
 
-Licensed under the same license as game-icons.net I guess. There are like a dozen licenses to choose from and I don't know the differences.
+Licensed under the same license as game-icons.net I guess (Creative Commons 3.0). There are like a dozen licenses to choose from and I don't know the differences.
