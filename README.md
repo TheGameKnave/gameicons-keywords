@@ -6,7 +6,7 @@ The existing smaller set of keywords are from the Game Icons website, below. The
 
 Pick an icon you like, populate its keywords and/or improve upon what’s there. For reference, icons can be browsed on [https://game-icons.net/](https://game-icons.net/) or [https://seiyria.com/gameicons-font/](https://seiyria.com/gameicons-font/).
 
-Order is alphabetical, but with gaming-related icons at the top, due to the game-related focus of the icon set (and due to the fact that I was annoyed at 3d-glasses always coming tp the top!).
+Order is alphabetical, but with gaming-related icons at the top, due to the game-related focus of the icon set (and due to the fact that I was annoyed at 3d-glasses always coming to the top!).
 
 Keep it family-friendly, please.
 
